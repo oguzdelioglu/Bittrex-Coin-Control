@@ -1,0 +1,16 @@
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Poloniex.csprojResolveAssemblyReference.cache
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Poloniex.Form1.resources
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Poloniex.csproj.GenerateResource.Cache
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\Newtonsoft.Json.dll
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\PoloniexApi.Net.dll
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\Newtonsoft.Json.xml
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\PoloniexApi.Net.xml
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\Bittrex.exe.config
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\Bittrex.exe
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\bin\Debug\Bittrex.pdb
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Bittrex.Properties.Resources.resources
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Bittrex.exe
+D:\Kaynak Kodlar\Poloniex\Poloniex\Poloniex\obj\Debug\Bittrex.pdb
+D:\Kaynak Kodlar\Bittrex Kontrol\Bittrex\Poloniex\bin\Debug\Bittrex.exe.config
+D:\Kaynak Kodlar\Bittrex Kontrol\Bittrex\Poloniex\obj\Debug\Bittrex.exe
+D:\Kaynak Kodlar\Bittrex Kontrol\Bittrex\Poloniex\obj\Debug\Bittrex.pdb
